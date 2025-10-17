@@ -99,6 +99,8 @@ class _UserHomeScreenState extends State<UserHomeScreen> {
                   onRefresh: () async {
                     context.read<UserBloc>().add(RefreshUsersEvent());
                   },
+                  color: appBackgroundColor,
+                  backgroundColor: appPrimaryColor,
                   child: UserListView(
                     usersList: state.data,
                     scrollCtrler: _scrollController,
