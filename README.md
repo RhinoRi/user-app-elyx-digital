@@ -35,10 +35,10 @@ flutter run or Hit F5 on vscode
 
 
 ## App Screenshots 
-![Home-Screen-Users-List](app_images\Home-Screen-Users-List.png)
+![Home-Screen-Users-List](app_images/Home-Screen-Users-List.png)
 
-![Refresh-Users-List](app_images\Refresh-Users-List.png)
+![Refresh-Users-List](app_images/Refresh-Users-List.png)
 
-![Search-Bar-Filtered-Users-List](app_images\Search-Bar-Filtered-Users-List.png)
+![Search-Bar-Filtered-Users-List](app_images/Search-Bar-Filtered-Users-List.png)
 
-![User-Details-Screen](app_images\User-Details-Screen.png)
+![User-Details-Screen](app_images/User-Details-Screen.png)
