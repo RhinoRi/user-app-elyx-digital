@@ -11,6 +11,17 @@ This is a new flutter application that fetches and displays a list of users from
  + Minimal, clean and modern looking UI with colors resembling Elyx Digital.
 
 
+
+## Versions
+
+```bash
+flutter: 3.35.6
+
+dart:  3.9.2
+```
+
+
+
 ## How to run app
 
 ```bash
